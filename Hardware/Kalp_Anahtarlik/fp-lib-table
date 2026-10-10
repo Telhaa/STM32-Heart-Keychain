@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SW_6x6_SMD") (type "KiCad") (uri "/home/talha/Documents/KİCAD_USER/Kicad_SEmbol_lib/SW_6x6_SMD.pretty") (options "") (descr ""))
+)
